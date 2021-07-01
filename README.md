@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BasilClay3d
-- 👀 I’m interested in C/C,IEC 61131-3,VB Script, Lua, CNC system, SCADAS7 Siemens TIA Portal and others, PLC programming, user interface creation, Process Automation, Industrial Hard, 
-- 🌱 I’m currently learning 👆 all of the above
+- 👀 I’m interested in C/C++,IEC 61131-3,VB Script, Lua, CNC system, SCADA S7 Siemens TIA Portal and others, PLC programming, user interface creation, Process Automation, Industrial Hard. I'd be happy to talk to the dinosaurs in assembly😌
+- 🌱 I’m currently learning 👆 All of the above. 
 - 💞️ I’m looking to collaborate on Automated control systems, smart home, Just don't GameDev, but it's for now😉
 - 📫 How to reach me : mail - basil3d31@gmail.com ; WhatsApp - +7 95I 5Ч5 5O ∞б. 
 
